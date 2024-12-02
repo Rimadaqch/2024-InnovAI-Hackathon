@@ -45,6 +45,9 @@ The SehatyAi app will deliver:
   - PyPDF & PDFPlumber - PDF processing
   - Unstructured - Document parsing
   - ElevenLabs - Text-to-speech capabilities
+    
+## Project Architecture
+![image](https://github.com/user-attachments/assets/f7e70085-58c7-4001-9473-5297417970ed)
 
 ## Prerequisites
 
